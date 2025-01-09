@@ -19,7 +19,7 @@ uma lista ordenada ou não.
 <p align="center">Clique para ver 👇</p>
 
 <p align="center">
-    <a href="">
+    <a href="https://ebac-modulo-jquery-atividade.vercel.app/">
         <img src="images/lista de tarefas.png" alt="Lista de tarefas"></img>
     </a>
 </p>
